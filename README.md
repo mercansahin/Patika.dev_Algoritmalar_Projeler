@@ -54,7 +54,7 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarına gelmiş oluyor bu ned
 ### Soru 2: Dizinin Big-O gösterimini yazınız.
 Merge Sort, her zaman O(n log n) zaman karmaşıklığına sahiptir.
 
-# Proje 2: Binary Search Tree
+# Proje 3: Binary Search Tree
 
 ### Soru 1: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız. 
 
